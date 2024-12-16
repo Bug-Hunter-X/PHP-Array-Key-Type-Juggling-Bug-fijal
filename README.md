@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in PHP related to array key handling.  Specifically, it highlights the unexpected behavior when using non-integer values (strings and floating-point numbers) as array keys.  The `bug.php` file showcases the problem, and the `bugSolution.php` file provides a solution and explanation.
